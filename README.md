@@ -15,6 +15,7 @@ With these data set a **Canopy Height Model(CHS)** can made subtract the DSM fro
 https://github.com/bobabugel/SI-Pools/blob/master/CHS_1013_ArcPro.ipynb
 
 ### NDWI 
+![NDWI](https://github.com/bobabugel/SI-Pools/blob/master/img/NDWI.PNG)
 The Remote Sensing Part of the Project uses NAIP data from the USDA. This data is used because the flyover occured during the summer of 2017 that lines with the Lidar data. This project using **Normalized difference water index (NWDI)**. **Green** and **near-infrared (NIR)** bands and used to calculate this index 
 
 ### Decision tree

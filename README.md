@@ -7,6 +7,7 @@ The Goal of this project is to used Lidar and NIAP to locate and classify ingrou
 The first part of the project is the process the Lidar data into a hieght file. Next the NAIP data need to processed into NDWI. After that a decision tree is done. 
 
 ### Lidar 
+![lidar](https://github.com/bobabugel/SI-Pools/blob/master/img/Lidar.PNG)
 The Lidar part is done using data from 2017 Lidar Flyover. This project use to **Digital Surface Model (DSM)** to find the top of building and trees.The **Digital Elveation Model (DEM)** is the ground. Lidar work by shooting light from the air to the ground. The first hit at the top of the tree is first return and is used in the DSM. The last hit is the ground and is called the ground return. The ground returns are used in the DEM.    
 
 With these data set a **Canopy Height Model(CHS)** can made subtract the DSM from the DEM to get the height of something in this case swimming pools.  

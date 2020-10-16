@@ -23,6 +23,8 @@ https://github.com/bobabugel/SI-Pools/blob/master/NDWI_101320_ArcPro.ipynb
 ### Decision tree
 After this the NWDI and CHS raster are created they can be combined to filter the fixes for pools and then the the hieght of those pools. Once they are filter they can be brought into taxlots. 
 
+https://github.com/bobabugel/SI-Pools/blob/master/D_Tree_1014_arcPro.ipynb
+
 ### Tabulate Area 
 ![Pools](https://github.com/bobabugel/SI-Pools/blob/master/img/pools3.PNG)
 At this point in the project the Raster data is joined with the vector data. The tax lots are brought in and a table is count the number of each type of pixel is in the tax lot. After that is done the inground pool pixels and the above-ground pixel are compared and the greatest one is given to the tax lot. This give all the tax lots fields of inground, aboveground and no pool. 

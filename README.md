@@ -11,6 +11,8 @@ The Lidar part is done using data from 2017 Lidar Flyover. This project use to *
 
 With these data set a **Canopy Height Model(CHS)** can made subtract the DSM from the DEM to get the height of something in this case swimming pools.  
 
+https://github.com/bobabugel/SI-Pools/blob/master/CHS_1013_ArcPro.ipynb
+
 ### NDWI 
 The Remote Sensing Part of the Project uses NAIP data from the USDA. This data is used because the flyover occured during the summer of 2017 that lines with the Lidar data. This project using **Normalized difference water index (NWDI)**. **Green** and **near-infrared (NIR)** bands and used to calculate this index 
 

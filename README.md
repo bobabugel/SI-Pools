@@ -18,6 +18,8 @@ https://github.com/bobabugel/SI-Pools/blob/master/CHS_1013_ArcPro.ipynb
 ![NDWI](https://github.com/bobabugel/SI-Pools/blob/master/img/NDWI.PNG)
 The Remote Sensing Part of the Project uses NAIP data from the USDA. This data is used because the flyover occured during the summer of 2017 that lines with the Lidar data. This project using **Normalized difference water index (NWDI)**. **Green** and **near-infrared (NIR)** bands and used to calculate this index 
 
+https://github.com/bobabugel/SI-Pools/blob/master/NDWI_101320_ArcPro.ipynb
+
 ### Decision tree
 After this the NWDI and CHS raster are created they can be combined to filter the fixes for pools and then the the hieght of those pools. Once they are filter they can be brought into taxlots. 
 

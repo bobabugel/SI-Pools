@@ -29,5 +29,7 @@ https://github.com/bobabugel/SI-Pools/blob/master/D_Tree_1014_arcPro.ipynb
 ![Pools](https://github.com/bobabugel/SI-Pools/blob/master/img/pools3.PNG)
 At this point in the project the Raster data is joined with the vector data. The tax lots are brought in and a table is count the number of each type of pixel is in the tax lot. After that is done the inground pool pixels and the above-ground pixel are compared and the greatest one is given to the tax lot. This give all the tax lots fields of inground, aboveground and no pool. 
 
+https://github.com/bobabugel/SI-Pools/blob/master/tabatecount.ipynb
+
 ### Join with Tax Data 
 At this point the project sale data is brought in to the project. 

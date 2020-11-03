@@ -33,3 +33,9 @@ https://github.com/bobabugel/SI-Pools/blob/master/tabatecount.ipynb
 
 ### Join with Tax Data 
 At this point the project sale data is brought in to the project. 
+
+
+## Open Source version 
+
+I been trying to get this to work with Rasterio but I'm having issues exporting it to a geotiff 
+https://github.com/bobabugel/SI-Pools/blob/master/PoolProject_110320_OpenSource.ipynb
